@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my college final year project "Energy Efficient Wireless Sensor Network Based O2 Monitoring In<br>Industrial Areas".<br>I’m currently learning Java, Spring boot, SQL and Data Structures & Algorithms.<br>Ask me about java basics or how I started learning coding.<br>I can spend hours debugging one small error and I enjoy it.<br>
+I'm currently brush up my frontend skills.<br>I’m currently learning Java, Spring boot, SQL and Data Structures & Algorithms.<br>Ask me about java basics or how I started learning coding.<br>I can spend hours debugging one small error and I enjoy it.<br>
 
 
 ## 🌐 Socials:
