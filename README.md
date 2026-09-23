@@ -11,6 +11,3 @@ I'm currently brush up my frontend skills.<br>I’m currently learning Java, Spr
 ![](https://github-readme-stats.shion.dev/api?username=Saurabh9546&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Saurabh9546&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saurabh9546&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Saurabh9546&icon=0&color=0)](https://visitcount.itsvg.in)
